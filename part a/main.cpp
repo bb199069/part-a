@@ -1,9 +1,7 @@
-//
-//  main.cpp
+//Branden Bowling
+//  CIS1202
 //  part a
-//
-//  Created by Branden B on 7/28/24.
-//
+//7/28/24.
 
 #include <iostream>
 
